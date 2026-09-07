@@ -5,18 +5,18 @@ about:
   head: 38f426a
   archived: false
   latestVersion: "2.21.0"
-  collectedAt: 2026-09-07T04:26:35Z
+  collectedAt: 2026-09-07T19:54:09Z
 timeline:
   created: 2019-08-31
   lastCommit: 2026-08-17
   lastRelease: 2026-08-17
 popularity:
-  star: 2205
+  star: 2206
   watcher: 39
-  fork: 876
+  fork: 878
   release: 37
   contributor: 784
-  pullRequest: 1284
+  pullRequest: 1286
   issue: 1947
 language:
   Python: 4830921
@@ -125,7 +125,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 0
-    openPR: 43
+    openPR: 45
     closedIssue: 0
     openIssue: 6
     commit: 3
@@ -133,7 +133,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 19
-    openPR: 69
+    openPR: 71
     closedIssue: 0
     openIssue: 10
     commit: 11
@@ -141,7 +141,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 54
-    openPR: 73
+    openPR: 75
     closedIssue: 2
     openIssue: 10
     commit: 77
@@ -149,7 +149,7 @@ recent:
     since: 2026-03-11
     release: 2
     mergedPR: 88
-    openPR: 98
+    openPR: 100
     closedIssue: 18
     openIssue: 15
     commit: 127
@@ -157,7 +157,7 @@ recent:
     since: 2025-09-12
     release: 2
     mergedPR: 122
-    openPR: 115
+    openPR: 117
     closedIssue: 39
     openIssue: 23
     commit: 190
@@ -165,20 +165,20 @@ recent:
     since: 2024-09-17
     release: 5
     mergedPR: 168
-    openPR: 162
+    openPR: 164
     closedIssue: 78
     openIssue: 55
     commit: 383
 total:
   release: 37
   mergedPR: 928
-  openPR: 217
+  openPR: 219
   closedIssue: 1518
   openIssue: 429
   commit: 7275
 ---
 path: /home/runner/.x-repo/github.com/pygments/pygments
-collectedAt: 2026-09-07T04:26:41Z
+collectedAt: 2026-09-07T19:54:14Z
 loc:
   Python:
     code: 121095
@@ -994,7 +994,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:26:42+00:00
+  collectedAt: 2026-09-07T19:54:16+00:00
   platform:
     darwin/arm64:
       name:  null
