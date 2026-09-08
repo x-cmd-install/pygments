@@ -5,13 +5,13 @@ about:
   head: 38f426a
   archived: false
   latestVersion: "2.21.0"
-  collectedAt: 2026-09-08T01:45:32Z
+  collectedAt: 2026-09-08T04:26:43Z
 timeline:
   created: 2019-08-31
   lastCommit: 2026-08-17
   lastRelease: 2026-08-17
 popularity:
-  star: 2206
+  star: 2207
   watcher: 39
   fork: 878
   release: 37
@@ -178,7 +178,7 @@ total:
   commit: 7275
 ---
 path: /home/runner/.x-repo/github.com/pygments/pygments
-collectedAt: 2026-09-08T01:45:37Z
+collectedAt: 2026-09-08T04:26:48Z
 loc:
   Python:
     code: 121095
