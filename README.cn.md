@@ -12,6 +12,28 @@ Pygments is a generic syntax highlighter written in Python
 x install pygments
 ```
 
+## 代码规模
+
+合计: **179,864** 行代码（覆盖前 5 种语言、共 **447** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 121,095 | 6,065 | 9,709 | 405 |
+| ReStructuredText | 4,062 | 0 | 1,530 | 33 |
+| C | 3,973 | 815 | 577 | 6 |
+| Elisp | 3,725 | 572 | 571 | 1 |
+| Pascal | 2,978 | 153 | 320 | 2 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.2 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/pygments/pygments>
@@ -36,30 +58,24 @@ x install pygments
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 50 | 0 | 8 | 3 |
+| last60d | 2026-07-12 | 1 | 15 | 74 | 0 | 13 | 11 |
 | 90d | 2026-06-12 | 1 | 53 | 81 | 2 | 13 | 77 |
+| last180d | 2026-03-14 | 2 | 87 | 107 | 18 | 18 | 127 |
 | 360d | 2025-09-15 | 2 | 121 | 124 | 38 | 26 | 190 |
+| last720d | 2024-09-20 | 5 | 168 | 170 | 78 | 58 | 383 |
 
-## 代码规模
+## 发行版状态
 
-合计: **179,864** 行代码（覆盖前 5 种语言、共 **447** 个文件）。
+在 [repology.org](https://repology.org/project/pygments) 上共有 **57** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 121,095 | 6,065 | 9,709 | 405 |
-| ReStructuredText | 4,062 | 0 | 1,530 | 33 |
-| C | 3,973 | 815 | 577 | 6 |
-| Elisp | 3,725 | 572 | 571 | 1 |
-| Pascal | 2,978 | 153 | 320 | 2 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.2 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.20.0` | ⚠️ outdated |
+| Debian 14 | `2.20.0` | ⚠️ outdated |
+| Debian 13 | `2.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.19.2` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.17.2` | ⚠️ outdated |
+| Homebrew | `2.21.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -70,4 +86,4 @@ pygments 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:16:08Z._
