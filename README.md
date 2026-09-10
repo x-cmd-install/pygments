@@ -22,23 +22,22 @@ x install pygments
 
 - **Latest**: `2.21.0` (2026-08-17)
 - **Last commit**: 2026-08-17
-- **Published**: 2026-08-17T08:04:06Z
 
 ## Popularity
 
-- **Stars**: 2,207 · **Forks**: 879 · **Open issues**: 1,950 · **Contributors**: 784
+- **Stars**: 2,207 · **Forks**: 880 · **Open issues**: 1,950 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 225 · **Closed issues**: 1518 · **Open issues**: 432 · **Commits**: 7275
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 226 · **Closed issues**: 1518 · **Open issues**: 432 · **Commits**: 7275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 49 | 0 | 8 | 3 |
-| 90d | 2026-06-12 | 1 | 53 | 80 | 2 | 13 | 77 |
-| 360d | 2025-09-15 | 2 | 121 | 123 | 38 | 26 | 190 |
+| 30d | 2026-08-11 | 1 | 0 | 50 | 0 | 8 | 3 |
+| 90d | 2026-06-12 | 1 | 53 | 81 | 2 | 13 | 77 |
+| 360d | 2025-09-15 | 2 | 121 | 124 | 38 | 26 | 190 |
 
 ## Code size
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pygments` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pygments.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pygments.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:32:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:25Z._
