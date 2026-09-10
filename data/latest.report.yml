@@ -7,7 +7,7 @@ about:
   latestVersion: "2.21.0"
   latestRelease: "2.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:14:58Z
+  collectedAt: 2026-09-10T20:15:46Z
 timeline:
   created: 2019-08-31
   lastCommit: 2026-08-17
@@ -182,7 +182,7 @@ total:
   commit: 7275
 ---
 path: /home/runner/.x-repo/github.com/pygments/pygments
-collectedAt: 2026-09-10T16:15:07Z
+collectedAt: 2026-09-10T20:15:54Z
 loc:
   Python:
     code: 121095
