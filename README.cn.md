@@ -4,7 +4,7 @@
 
 Pygments is a generic syntax highlighter written in Python
 
-![pygments](https://repo.x-cmd.io/pygments.svg?lang=zh)
+[![x-cmd/install — pygments Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pygments.svg?lang=zh)](https://x-cmd.com/install/pygments)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install pygments
 
 ## 流行度
 
-- **Star**: 2,207 · **Fork**: 884 · **开放 issue**: 1,951 · **贡献者**: 784
+- **Star**: 2,208 · **Fork**: 885 · **开放 issue**: 1,951 · **贡献者**: 784
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 928 · **开放 PR**: 230 · **已关闭 issue**: 1518 · **开放 issue**: 433 · **提交数**: 7275
+- **发布数**: 37 · **已合并 PR**: 928 · **开放 PR**: 232 · **已关闭 issue**: 1518 · **开放 issue**: 433 · **提交数**: 7275
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 27 | 0 | 7 | 0 |
-| last60d | 2026-07-20 | 1 | 1 | 74 | 0 | 11 | 5 |
-| 90d | 2026-06-20 | 1 | 48 | 86 | 2 | 14 | 76 |
-| last180d | 2026-03-22 | 2 | 87 | 112 | 18 | 19 | 127 |
-| 360d | 2025-09-23 | 2 | 121 | 128 | 37 | 27 | 190 |
-| last720d | 2024-09-28 | 5 | 167 | 173 | 78 | 58 | 382 |
+| 30d | 2026-08-21 | 0 | 0 | 27 | 0 | 7 | 0 |
+| last60d | 2026-07-22 | 1 | 1 | 75 | 0 | 11 | 5 |
+| 90d | 2026-06-22 | 1 | 44 | 88 | 2 | 14 | 76 |
+| last180d | 2026-03-24 | 2 | 87 | 114 | 18 | 19 | 127 |
+| 360d | 2025-09-25 | 2 | 119 | 129 | 36 | 27 | 190 |
+| last720d | 2024-09-30 | 5 | 167 | 175 | 78 | 58 | 382 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ pygments 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:34:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:49:36Z._
