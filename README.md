@@ -4,7 +4,7 @@
 
 Pygments is a generic syntax highlighter written in Python
 
-[![x-cmd/install — pygments Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pygments.svg)](https://x-cmd.com/install/pygments)
+[![x-cmd/install — pygments Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pygments.svg)](https://x-cmd.com/install/pygments)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,209 · **Forks**: 887 · **Open issues**: 1,951 · **Contributors**: 784
+- **Stars**: 2,210 · **Forks**: 888 · **Open issues**: 1,952 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 233 · **Closed issues**: 1518 · **Open issues**: 433 · **Commits**: 7275
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 235 · **Closed issues**: 1518 · **Open issues**: 434 · **Commits**: 7275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 28 | 0 | 6 | 0 |
-| last60d | 2026-07-24 | 1 | 1 | 76 | 0 | 11 | 3 |
-| 90d | 2026-06-24 | 1 | 44 | 89 | 2 | 14 | 76 |
-| last180d | 2026-03-26 | 2 | 83 | 115 | 13 | 19 | 113 |
-| 360d | 2025-09-27 | 2 | 118 | 130 | 36 | 27 | 189 |
-| last720d | 2024-10-02 | 5 | 167 | 176 | 78 | 58 | 382 |
+| 30d | 2026-08-24 | 0 | 0 | 29 | 0 | 7 | 0 |
+| last60d | 2026-07-25 | 1 | 1 | 78 | 0 | 12 | 3 |
+| 90d | 2026-06-25 | 1 | 44 | 91 | 2 | 15 | 76 |
+| last180d | 2026-03-27 | 2 | 83 | 117 | 12 | 20 | 113 |
+| 360d | 2025-09-28 | 2 | 118 | 132 | 36 | 28 | 189 |
+| last720d | 2024-10-03 | 5 | 167 | 178 | 78 | 59 | 382 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:49:44Z._
