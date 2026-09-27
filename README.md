@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,210 · **Forks**: 889 · **Open issues**: 1,952 · **Contributors**: 784
+- **Stars**: 2,211 · **Forks**: 891 · **Open issues**: 1,952 · **Contributors**: 784
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 30 | 0 | 6 | 0 |
-| last60d | 2026-07-28 | 1 | 0 | 72 | 0 | 12 | 3 |
-| 90d | 2026-06-28 | 1 | 42 | 94 | 1 | 15 | 76 |
-| last180d | 2026-03-30 | 1 | 82 | 119 | 9 | 20 | 113 |
-| 360d | 2025-10-01 | 2 | 117 | 135 | 36 | 28 | 189 |
-| last720d | 2024-10-06 | 5 | 166 | 181 | 78 | 59 | 379 |
+| 30d | 2026-08-28 | 0 | 0 | 30 | 0 | 6 | 0 |
+| last60d | 2026-07-29 | 1 | 0 | 71 | 0 | 11 | 3 |
+| 90d | 2026-06-29 | 1 | 42 | 94 | 0 | 15 | 47 |
+| last180d | 2026-03-31 | 1 | 82 | 118 | 9 | 19 | 106 |
+| 360d | 2025-10-02 | 2 | 117 | 135 | 36 | 28 | 189 |
+| last720d | 2024-10-07 | 5 | 165 | 181 | 78 | 59 | 356 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:48:39Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:16:23Z._
