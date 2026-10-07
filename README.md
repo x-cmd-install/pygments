@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,213 · **Forks**: 901 · **Open issues**: 1,952 · **Contributors**: 784
+- **Stars**: 2,214 · **Forks**: 904 · **Open issues**: 1,952 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 255 · **Closed issues**: 1518 · **Open issues**: 434 · **Commits**: 7276
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 258 · **Closed issues**: 1518 · **Open issues**: 434 · **Commits**: 7276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 42 | 0 | 5 | 1 |
-| last60d | 2026-08-07 | 1 | 0 | 83 | 0 | 11 | 4 |
-| 90d | 2026-07-08 | 1 | 20 | 108 | 0 | 15 | 27 |
-| last180d | 2026-04-09 | 1 | 76 | 132 | 8 | 19 | 106 |
-| 360d | 2025-10-11 | 2 | 117 | 152 | 35 | 27 | 190 |
-| last720d | 2024-10-16 | 5 | 164 | 197 | 76 | 58 | 348 |
+| 30d | 2026-09-07 | 0 | 0 | 41 | 0 | 4 | 1 |
+| last60d | 2026-08-08 | 1 | 0 | 85 | 0 | 11 | 4 |
+| 90d | 2026-07-09 | 1 | 19 | 111 | 0 | 15 | 27 |
+| last180d | 2026-04-10 | 1 | 76 | 135 | 8 | 18 | 106 |
+| 360d | 2025-10-12 | 2 | 116 | 155 | 35 | 27 | 190 |
+| last720d | 2024-10-17 | 5 | 164 | 200 | 76 | 58 | 348 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:17:05Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:49:05Z._
