@@ -32,7 +32,7 @@ x install pygments
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install pygments
 
 ## 流行度
 
-- **Star**: 2,213 · **Fork**: 917 · **开放 issue**: 1,953 · **贡献者**: 784
+- **Star**: 2,214 · **Fork**: 921 · **开放 issue**: 1,954 · **贡献者**: 784
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 928 · **开放 PR**: 281 · **已关闭 issue**: 1518 · **开放 issue**: 435 · **提交数**: 7276
+- **发布数**: 37 · **已合并 PR**: 928 · **开放 PR**: 285 · **已关闭 issue**: 1518 · **开放 issue**: 436 · **提交数**: 7276
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 56 | 0 | 2 | 1 |
-| last60d | 2026-08-14 | 1 | 0 | 103 | 0 | 10 | 1 |
-| 90d | 2026-07-15 | 1 | 3 | 129 | 0 | 16 | 7 |
-| last180d | 2026-04-16 | 1 | 75 | 158 | 7 | 19 | 106 |
-| 360d | 2025-10-18 | 2 | 115 | 178 | 34 | 28 | 190 |
-| last720d | 2024-10-23 | 5 | 162 | 222 | 76 | 59 | 348 |
+| 30d | 2026-09-14 | 0 | 0 | 59 | 0 | 3 | 1 |
+| last60d | 2026-08-15 | 1 | 0 | 104 | 0 | 11 | 1 |
+| 90d | 2026-07-16 | 1 | 2 | 132 | 0 | 16 | 7 |
+| last180d | 2026-04-17 | 1 | 73 | 162 | 7 | 20 | 106 |
+| 360d | 2025-10-19 | 2 | 115 | 182 | 34 | 29 | 190 |
+| last720d | 2024-10-24 | 5 | 162 | 226 | 76 | 60 | 347 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ pygments 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T06:47:46Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T04:53:52Z._
