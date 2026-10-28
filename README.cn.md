@@ -26,13 +26,13 @@ x install pygments
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install pygments
 
 ## 流行度
 
-- **Star**: 2,218 · **Fork**: 935 · **开放 issue**: 1,958 · **贡献者**: 784
+- **Star**: 2,219 · **Fork**: 938 · **开放 issue**: 1,958 · **贡献者**: 784
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 928 · **开放 PR**: 333 · **已关闭 issue**: 1518 · **开放 issue**: 440 · **提交数**: 7276
+- **发布数**: 37 · **已合并 PR**: 928 · **开放 PR**: 336 · **已关闭 issue**: 1518 · **开放 issue**: 440 · **提交数**: 7276
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 98 | 0 | 6 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 126 | 0 | 12 | 1 |
-| 90d | 2026-07-29 | 1 | 0 | 166 | 0 | 17 | 4 |
-| last180d | 2026-04-30 | 1 | 70 | 206 | 7 | 23 | 87 |
-| 360d | 2025-11-01 | 2 | 114 | 230 | 34 | 32 | 190 |
-| last720d | 2024-11-06 | 5 | 160 | 273 | 76 | 64 | 344 |
+| 30d | 2026-09-28 | 0 | 0 | 101 | 0 | 6 | 0 |
+| last60d | 2026-08-29 | 0 | 0 | 129 | 0 | 12 | 1 |
+| 90d | 2026-07-30 | 1 | 0 | 169 | 0 | 17 | 4 |
+| last180d | 2026-05-01 | 1 | 66 | 208 | 7 | 23 | 87 |
+| 360d | 2025-11-02 | 2 | 114 | 232 | 34 | 32 | 190 |
+| last720d | 2024-11-07 | 5 | 159 | 276 | 75 | 64 | 344 |
 
 ## 发行版状态
 
@@ -86,4 +86,4 @@ pygments 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:54:28Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:28:23Z._
