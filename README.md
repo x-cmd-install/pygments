@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 108 | 0 | 6 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 147 | 0 | 12 | 1 |
-| 90d | 2026-08-04 | 1 | 0 | 184 | 0 | 17 | 4 |
-| last180d | 2026-05-06 | 1 | 66 | 225 | 7 | 22 | 84 |
-| 360d | 2025-11-07 | 2 | 113 | 250 | 33 | 32 | 190 |
-| last720d | 2024-11-12 | 5 | 157 | 292 | 74 | 64 | 341 |
+| 30d | 2026-10-04 | 0 | 0 | 106 | 0 | 6 | 0 |
+| last60d | 2026-09-04 | 0 | 0 | 147 | 0 | 12 | 1 |
+| 90d | 2026-08-05 | 1 | 0 | 184 | 0 | 17 | 4 |
+| last180d | 2026-05-07 | 1 | 66 | 225 | 7 | 22 | 84 |
+| 360d | 2025-11-08 | 2 | 113 | 250 | 33 | 31 | 190 |
+| last720d | 2024-11-13 | 5 | 155 | 292 | 73 | 64 | 340 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:53:07Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:36:18Z._
