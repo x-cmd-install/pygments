@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,222 · **Forks**: 959 · **Open issues**: 1,959 · **Contributors**: 784
+- **Stars**: 2,223 · **Forks**: 963 · **Open issues**: 1,959 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 371 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 374 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 66 | 0 | 4 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 148 | 0 | 8 | 1 |
-| 90d | 2026-08-18 | 0 | 0 | 185 | 0 | 16 | 1 |
-| last180d | 2026-05-20 | 1 | 56 | 231 | 4 | 22 | 80 |
-| 360d | 2025-11-21 | 2 | 112 | 266 | 30 | 32 | 190 |
-| last720d | 2024-11-26 | 5 | 153 | 308 | 69 | 64 | 326 |
+| 30d | 2026-10-18 | 0 | 0 | 64 | 0 | 3 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 151 | 0 | 8 | 1 |
+| 90d | 2026-08-19 | 0 | 0 | 174 | 0 | 15 | 1 |
+| last180d | 2026-05-21 | 1 | 55 | 234 | 4 | 22 | 80 |
+| 360d | 2025-11-22 | 2 | 112 | 269 | 30 | 32 | 190 |
+| last720d | 2024-11-27 | 5 | 153 | 311 | 68 | 64 | 324 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:15:11Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:11:34Z._
