@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 373 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 371 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 60 | 0 | 2 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 151 | 0 | 8 | 1 |
-| 90d | 2026-08-21 | 0 | 0 | 174 | 0 | 15 | 1 |
-| last180d | 2026-05-23 | 1 | 55 | 233 | 4 | 22 | 80 |
-| 360d | 2025-11-24 | 2 | 112 | 267 | 30 | 32 | 190 |
-| last720d | 2024-11-29 | 5 | 153 | 310 | 67 | 64 | 324 |
+| 30d | 2026-10-21 | 0 | 0 | 57 | 0 | 2 | 0 |
+| last60d | 2026-09-21 | 0 | 0 | 148 | 0 | 8 | 1 |
+| 90d | 2026-08-22 | 0 | 0 | 172 | 0 | 14 | 1 |
+| last180d | 2026-05-24 | 1 | 55 | 231 | 3 | 22 | 80 |
+| 360d | 2025-11-25 | 2 | 112 | 265 | 30 | 32 | 190 |
+| last720d | 2024-11-30 | 5 | 153 | 307 | 67 | 63 | 324 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:27:59Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:13:09Z._
