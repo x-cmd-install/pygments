@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,227 · **Forks**: 970 · **Open issues**: 1,959 · **Contributors**: 784
+- **Stars**: 2,227 · **Forks**: 971 · **Open issues**: 1,959 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 379 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 380 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 56 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 151 | 0 | 7 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 178 | 0 | 14 | 1 |
-| last180d | 2026-05-28 | 1 | 55 | 239 | 2 | 22 | 79 |
-| 360d | 2025-11-29 | 2 | 112 | 273 | 30 | 31 | 190 |
-| last720d | 2024-12-04 | 5 | 152 | 315 | 65 | 63 | 324 |
+| 30d | 2026-10-26 | 0 | 0 | 57 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 152 | 0 | 7 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 178 | 0 | 13 | 1 |
+| last180d | 2026-05-29 | 1 | 55 | 239 | 2 | 22 | 79 |
+| 360d | 2025-11-30 | 2 | 112 | 274 | 30 | 31 | 190 |
+| last720d | 2024-12-05 | 5 | 152 | 316 | 65 | 63 | 321 |
 
 ## Distribution status
 
-Reported by **52** distros on [repology.org](https://repology.org/project/pygments). **3** are ✅ on the latest upstream release, **47** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/pygments). **3** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:47:39Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:18:31Z._
