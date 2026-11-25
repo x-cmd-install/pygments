@@ -1,12 +1,12 @@
-- repo: parrot
-  subrepo: parrot-updates/main
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: pygments
   binnames:
     - python-pygments-doc
     - python3-pygments
   visiblename: pygments
-  version: 2.18.0
-  origversion: 2.18.0+dfsg-2+deb13u1
+  version: 2.20.0
+  origversion: 2.20.0+dfsg-2
   status: outdated
   maintainers:
     - piotr@debian.org
@@ -123,21 +123,6 @@
     - team+python@tracker.debian.org
   categories:
     - python
-- repo: parrot
-  subrepo: parrot/main
-  srcname: pygments
-  binnames:
-    - python-pygments-doc
-    - python3-pygments
-  visiblename: pygments
-  version: 2.18.0
-  origversion: 2.18.0+dfsg-2+deb13u1
-  status: outdated
-  maintainers:
-    - piotr@debian.org
-    - team+python@tracker.debian.org
-  categories:
-    - python
 - repo: debian_13
   subrepo: trixie/main
   srcname: pygments
@@ -222,21 +207,6 @@
   visiblename: pygments
   version: 2.7.1
   origversion: 2.7.1+dfsg-2.1
-  status: outdated
-  maintainers:
-    - piotr@debian.org
-    - team+python@tracker.debian.org
-  categories:
-    - python
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: pygments
-  binnames:
-    - python-pygments-doc
-    - python3-pygments
-  visiblename: pygments
-  version: 2.20.0
-  origversion: 2.20.0+dfsg-2
   status: outdated
   maintainers:
     - piotr@debian.org
@@ -375,20 +345,34 @@
     - team+python@tracker.debian.org
   categories:
     - python
-- repo: pureos_amber
-  subrepo: amber/main
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: pygments
   binnames:
-    - python-pygments
     - python-pygments-doc
     - python3-pygments
   visiblename: pygments
-  version: 2.3.1
-  origversion: 2.3.1+dfsg-1+deb10u2
+  version: 2.18.0
+  origversion: 2.18.0+dfsg-2+deb13u1
   status: outdated
   maintainers:
     - piotr@debian.org
-    - python-modules-team@lists.alioth.debian.org
+    - team+python@tracker.debian.org
+  categories:
+    - python
+- repo: parrot
+  subrepo: parrot/main
+  srcname: pygments
+  binnames:
+    - python-pygments-doc
+    - python3-pygments
+  visiblename: pygments
+  version: 2.18.0
+  origversion: 2.18.0+dfsg-2+deb13u1
+  status: outdated
+  maintainers:
+    - piotr@debian.org
+    - team+python@tracker.debian.org
   categories:
     - python
 - repo: pureos_byzantium
@@ -531,22 +515,6 @@
   categories:
     - python
 - repo: ubuntu_16_04
-  subrepo: xenial-updates/main
-  srcname: pygments
-  binnames:
-    - python-pygments
-    - python3-pygments
-    - python-pygments-doc
-  visiblename: pygments
-  version: "2.1"
-  origversion: 2.1+dfsg-1ubuntu0.2
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - python-modules-team@lists.alioth.debian.org
-  categories:
-    - python
-- repo: ubuntu_16_04
   subrepo: xenial/main
   srcname: pygments
   binnames:
@@ -559,6 +527,22 @@
   status: outdated
   maintainers:
     - piotr@debian.org
+    - python-modules-team@lists.alioth.debian.org
+  categories:
+    - python
+- repo: ubuntu_16_04
+  subrepo: xenial-updates/main
+  srcname: pygments
+  binnames:
+    - python-pygments
+    - python3-pygments
+    - python-pygments-doc
+  visiblename: pygments
+  version: "2.1"
+  origversion: 2.1+dfsg-1ubuntu0.2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - python-modules-team@lists.alioth.debian.org
   categories:
     - python
@@ -595,22 +579,6 @@
   categories:
     - python
 - repo: ubuntu_20_04
-  subrepo: focal/main
-  srcname: pygments
-  binnames:
-    - python-pygments
-    - python3-pygments
-    - python-pygments-doc
-  visiblename: pygments
-  version: 2.3.1
-  origversion: 2.3.1+dfsg-1ubuntu2
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - python-modules-team@lists.alioth.debian.org
-  categories:
-    - python
-- repo: ubuntu_20_04
   subrepo: focal-updates/main
   srcname: pygments
   binnames:
@@ -626,19 +594,20 @@
     - python-modules-team@lists.alioth.debian.org
   categories:
     - python
-- repo: ubuntu_22_04
-  subrepo: jammy-updates/main
+- repo: ubuntu_20_04
+  subrepo: focal/main
   srcname: pygments
   binnames:
+    - python-pygments
     - python3-pygments
     - python-pygments-doc
   visiblename: pygments
-  version: 2.11.2
-  origversion: 2.11.2+dfsg-2ubuntu0.1
+  version: 2.3.1
+  origversion: 2.3.1+dfsg-1ubuntu2
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
-    - team+python@tracker.debian.org
+    - python-modules-team@lists.alioth.debian.org
   categories:
     - python
 - repo: ubuntu_22_04
@@ -653,6 +622,21 @@
   status: outdated
   maintainers:
     - piotr@debian.org
+    - team+python@tracker.debian.org
+  categories:
+    - python
+- repo: ubuntu_22_04
+  subrepo: jammy-updates/main
+  srcname: pygments
+  binnames:
+    - python3-pygments
+    - python-pygments-doc
+  visiblename: pygments
+  version: 2.11.2
+  origversion: 2.11.2+dfsg-2ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - team+python@tracker.debian.org
   categories:
     - python
