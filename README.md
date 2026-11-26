@@ -47,35 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,227 · **Forks**: 971 · **Open issues**: 1,959 · **Contributors**: 784
+- **Stars**: 2,226 · **Forks**: 972 · **Open issues**: 1,959 · **Contributors**: 784
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 380 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
+- **Releases**: 37 · **Merged PRs**: 928 · **Open PRs**: 382 · **Closed issues**: 1518 · **Open issues**: 441 · **Commits**: 7276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 57 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 152 | 0 | 7 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 178 | 0 | 13 | 1 |
-| last180d | 2026-05-29 | 1 | 55 | 239 | 2 | 22 | 79 |
-| 360d | 2025-11-30 | 2 | 112 | 274 | 30 | 31 | 190 |
-| last720d | 2024-12-05 | 5 | 152 | 316 | 65 | 63 | 321 |
-
-## Distribution status
-
-Reported by **51** distros on [repology.org](https://repology.org/project/pygments). **3** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.20.0` | ⚠️ outdated |
-| Debian 14 | `2.20.0` | ⚠️ outdated |
-| Debian 13 | `2.18.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.19.2` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.17.2` | ⚠️ outdated |
-| Homebrew | `2.21.0` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 0 | 58 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 153 | 0 | 7 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 180 | 0 | 13 | 1 |
+| last180d | 2026-05-30 | 1 | 55 | 241 | 2 | 22 | 79 |
+| 360d | 2025-12-01 | 2 | 112 | 275 | 30 | 30 | 190 |
+| last720d | 2024-12-06 | 5 | 152 | 318 | 65 | 63 | 321 |
 
 ## Improve this data
 
@@ -86,4 +73,4 @@ Install metadata for pygments lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:18:31Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:04:46Z._
