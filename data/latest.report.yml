@@ -7,7 +7,7 @@ about:
   latestVersion: "2.21.0"
   latestRelease: "2.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:25:15Z
+  collectedAt: 2026-11-28T07:36:00Z
 timeline:
   created: 2019-08-31
   lastCommit: 2026-09-27
@@ -126,15 +126,15 @@ language:
 totalBytes: 6670560
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
-    openPR: 56
+    openPR: 55
     closedIssue: 0
     openIssue: 1
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 155
@@ -142,31 +142,31 @@ recent:
     openIssue: 7
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 182
     closedIssue: 0
     openIssue: 13
-    commit: 0
+    commit: 1
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 55
     openPR: 243
     closedIssue: 2
     openIssue: 22
-    commit: 0
+    commit: 79
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 2
     mergedPR: 112
     openPR: 277
     closedIssue: 30
     openIssue: 30
-    commit: 0
+    commit: 190
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 5
     mergedPR: 152
     openPR: 320
@@ -182,7 +182,7 @@ total:
   commit: 7276
 ---
 path: /home/runner/.x-repo/github.com/pygments/pygments
-collectedAt: 2026-11-27T08:25:20Z
+collectedAt: 2026-11-28T07:36:04Z
 loc:
   Python:
     code: 121108
